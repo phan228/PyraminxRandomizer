@@ -4,7 +4,7 @@ Consider a [4-layer pyraminx](https://ruwix.com/twisty-puzzles/pyraminx-triangle
 Four faces of the pyraminx are implemented using four 4x7 matrices (2D arrays). When rotating, the color blocks on each face will switch places for the corresponding blocks' positions on another face depending on the rotations.
 The list of moves is stored in the moves[] array as a record for the 2nd project so it won't be printed out in this one.
 
-## How to run: `python randomizer.py`
+### How to run: `python randomizer.py`
 
 ## Implementation: 
 There are 24 moves in total for the pyraminx, with 12 clockwise and 12 counter-clockwise rotations: tip rotations, 2-layer rotations, and 3-layer rotations for 4 sides: Up, Left, Right, Back.
