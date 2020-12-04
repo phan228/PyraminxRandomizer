@@ -12,22 +12,22 @@ The program takes in the number of moves and randomly picks numbers from 1-24, t
 
 For example, the initial pyraminx is as below:
 
-	      R		          Y		          G
-	    R R R 	      Y Y Y	        G G G
-	  R R R R R	    Y Y Y Y Y	    G G G G G
+	      R		      Y		      G
+	    R R R 	    Y Y Y	    G G G
+	  R R R R R	  Y Y Y Y Y	  G G G G G
 	R R R R R R R	Y Y Y Y Y Y Y	G G G G G G G
-			          B B B B B B B
-			            B B B B B
-			              B B B
-			                B
+			B B B B B B B
+		          B B B B B
+			    B B B
+			      B
   
 After U1 - rotating 1 layer of the top tip clockwise, the affected faces are red (R), yellow (Y), green (G). The pyraminx after randomization is:
 
-	      Y		          G		          R
-	    R R R 	      Y Y Y	        G G G
-	  R R R R R	    Y Y Y Y Y	    G G G G G
+	      Y		      G		      R
+	    R R R 	    Y Y Y	    G G G
+	  R R R R R	  Y Y Y Y Y	  G G G G G
 	R R R R R R R	Y Y Y Y Y Y Y	G G G G G G G
-			          B B B B B B B
-			            B B B B B
-			              B B B
-			                B
+			B B B B B B B
+			  B B B B B
+			    B B B
+			      B
