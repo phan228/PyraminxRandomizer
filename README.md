@@ -33,4 +33,4 @@ After U1 - rotating 1 layer of the top tip clockwise, the affected faces are red
 			    B B B
 			      B
 
-2020 Intro to Artificial Intelligence
+*2020 Intro to Artificial Intelligence*
