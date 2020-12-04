@@ -1,6 +1,6 @@
 # Pyraminx Randomizer
 
-Consider a [4-layer pyraminx](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube/master-pyraminx/)
+Consider a [4-layer pyraminx](https://ruwix.com/twisty-puzzles/pyraminx-triangle-rubiks-cube/master-pyraminx/). 
 Four faces of the pyraminx are implemented using four 4x7 matrices (2D arrays). When rotating, the color blocks on each face will switch places for the corresponding blocks' positions on another face depending on the rotations.
 The list of moves is stored in the moves[] array as a record for the 2nd project so it won't be printed out in this one.
 
@@ -32,3 +32,5 @@ After U1 - rotating 1 layer of the top tip clockwise, the affected faces are red
 			  B B B B B
 			    B B B
 			      B
+
+2020 Intro to Artificial Intelligence
