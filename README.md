@@ -8,6 +8,7 @@ The list of moves is stored in the moves[] array as a record for the 2nd project
 
 ### Implementation: 
 There are 24 moves in total for the pyraminx, with 12 clockwise and 12 counter-clockwise rotations: tip rotations, 2-layer rotations, and 3-layer rotations for 4 sides: Up, Left, Right, Back.
+
 The program takes in the number of moves and randomly picks numbers from 1-24, these numbers are associated with different moves (i.e: 1 is for U1 - rotate 1 layer of the top tip clockwise, and 17 is for L2_inv - rotate 2 layers of the left tip counter-clockwise). Then it will randomize the pyraminx and print the result out to the console.
 
 For example, the initial pyraminx is as below:
