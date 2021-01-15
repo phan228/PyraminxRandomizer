@@ -241,7 +241,7 @@ def Main():
 	for i in range(7):
 		blue[0][i] = 'B'
 
-	# setup blue face
+	# setup green face
 	green[0][3] = green[1][2] = green[1][3] = green[1][4] = green[2][1] = green[2][2] = green[2][3] = green[2][4] = green[2][5]= 'G'
 	for i in range(7):
 		green[3][i] = 'G'
